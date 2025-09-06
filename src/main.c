@@ -9,4 +9,4 @@ int main(void) {
         printf("Hello world.");
         sleep_ms(1000);
     }
-}printf("Hello world.");
+}
